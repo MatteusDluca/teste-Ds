@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ignore": ["**/node_modules/**", "/home/matteus/Android/Sdk/**"],
+  "ext": "js,json"
+}
